@@ -162,10 +162,6 @@ https://api.ente.example/rest/nome-api/v1/resources/1234/M/8131edc0-29ed-4d6e-ba
    Content-Type: application/json
    Location: /rest/nome-api/v1/resources/1234/M/8131edc0-29ed-4d6e-ba43-cce978c7ea8d/result
 
-   {
-     "status": "done",
-     "message": "Processamento completo"
-   }
 
 Di seguito un esempio di chiamata con cui il fruitore richiede l’esito
 della sua richiesta.
