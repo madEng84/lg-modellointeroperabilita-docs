@@ -6,9 +6,9 @@ in modo da razionalizzare e uniformare la rappresentazione
 dell'informazione quale presupposto per favorire l’interoperabilità tra 
 soggetti differenti.
 
-L’adozione di modelli dati condivisi permette ai soggetti che comunicano, 
-di partire da una rappresentazione dei dati comune, evitando la 
-proliferazione di modelli dati differenti impattano direttamente sulla 
+L’adozione di modelli dati condivisi permette ai soggetti che comunicano 
+di partire da una rappresentazione dei dati comune, evitando che la 
+proliferazione di modelli dati differenti impatti direttamente sulla 
 modalità con cui i dati vengono resi persistenti. Ne consegue che 
 l'adozione di modelli dati condivisi favorisce il riuso delle strutture 
 dati, semplifica le integrazioni e assicura che gli elementi dei dati 
